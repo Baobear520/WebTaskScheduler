@@ -20,7 +20,8 @@ def make_connection():
     
 
 def task_schedule():
-    pass
+    
+    """ Schedule a task to perform"""
 
 
 def content_creator():
