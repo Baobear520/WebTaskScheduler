@@ -22,6 +22,7 @@ def make_connection():
 def task_schedule():
     pass
 
+
 def content_creator():
 
     """Creating title and body of the post"""
